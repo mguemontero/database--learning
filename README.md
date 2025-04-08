@@ -1,2 +1,2 @@
 # database--learning
-Repository aimed to messing around with sql. SQLite3 will probably be the database i'll be using
+Repository aimed to playing around with SQL. SQLite3 will probably be the database i'll be using
